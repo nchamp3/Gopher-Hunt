@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">proj4</string>
+    <string name="choose_game_mode">Choose a game mode!</string>
+    <string name="game_mode_1">2 Players</string>
+    <string name="game_mode_2">Continuous</string>
+    <string name="make_guess">Player 1 Guess</string>
+    <string name="switch_modes">Switch to Continuous Mode</string>
+</resources>
